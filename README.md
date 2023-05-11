@@ -1,2 +1,2 @@
-# Color_coder
-front-end:HTML,CSS,Javascript 
+# Color_code
+HTML,CSS,Javascript 
